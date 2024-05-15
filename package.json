@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^0.0.0-insiders.300e9eb",
+    "@material-tailwind/react": "^2.1.9"
+  }
+}
